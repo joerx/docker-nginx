@@ -5,7 +5,7 @@ to make sure all output is directed to stdout (to be [12-factor](http://12factor
 
 ## Issues
 
-Nothing coming out of PHP-land has ever been straightforward and facepalm free - e.g. FPM's 
+Nothing coming out of PHP-land has ever been facepalm free - e.g. FPM's 
 configuration-resistant habit of prefixing a ton of crap to each workers output:
 
 ```
